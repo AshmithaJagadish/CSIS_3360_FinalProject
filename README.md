@@ -2,7 +2,7 @@
 Douglas College
 
 Telecom Churn Case Study
-The dataset can be downloaded from here.
+he dataset can be downloaded from here.
 
 Problem Statement
 Business Problem Overview
